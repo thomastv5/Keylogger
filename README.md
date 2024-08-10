@@ -1,1 +1,1 @@
-"# Keylogger" 
+Developed a Python keylogger using pynput to monitor and log keyboard input in real-time. The program clears the log file at startup and appends new keystrokes efficiently while handling special keys appropriately. Implemented robust file operations to ensure smooth logging and system performance.
